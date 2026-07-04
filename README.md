@@ -41,15 +41,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/YuvrajGotra/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0707-design-linked-list](https://github.com/YuvrajGotra/LeetCode/tree/master/0707-design-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/YuvrajGotra/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2296-design-a-text-editor](https://github.com/YuvrajGotra/LeetCode/tree/master/2296-design-a-text-editor) |
 ## Simulation
 |  |
 | ------- |
 | [2181-merge-nodes-in-between-zeros](https://github.com/YuvrajGotra/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2296-design-a-text-editor](https://github.com/YuvrajGotra/LeetCode/tree/master/2296-design-a-text-editor) |
 ## Stack
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/YuvrajGotra/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/YuvrajGotra/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [2296-design-a-text-editor](https://github.com/YuvrajGotra/LeetCode/tree/master/2296-design-a-text-editor) |
 ## Recursion
 |  |
 | ------- |
@@ -58,4 +61,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/YuvrajGotra/LeetCode/tree/master/0707-design-linked-list) |
+| [2296-design-a-text-editor](https://github.com/YuvrajGotra/LeetCode/tree/master/2296-design-a-text-editor) |
+## String
+|  |
+| ------- |
+| [2296-design-a-text-editor](https://github.com/YuvrajGotra/LeetCode/tree/master/2296-design-a-text-editor) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [2296-design-a-text-editor](https://github.com/YuvrajGotra/LeetCode/tree/master/2296-design-a-text-editor) |
 <!---LeetCode Topics End-->
