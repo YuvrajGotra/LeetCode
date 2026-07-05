@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/YuvrajGotra/LeetCode/tree/master/0001-two-sum) |
+| [0622-design-circular-queue](https://github.com/YuvrajGotra/LeetCode/tree/master/0622-design-circular-queue) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/YuvrajGotra/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0382-linked-list-random-node](https://github.com/YuvrajGotra/LeetCode/tree/master/0382-linked-list-random-node) |
+| [0622-design-circular-queue](https://github.com/YuvrajGotra/LeetCode/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/YuvrajGotra/LeetCode/tree/master/0707-design-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/YuvrajGotra/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2296-design-a-text-editor](https://github.com/YuvrajGotra/LeetCode/tree/master/2296-design-a-text-editor) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0622-design-circular-queue](https://github.com/YuvrajGotra/LeetCode/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/YuvrajGotra/LeetCode/tree/master/0707-design-linked-list) |
 | [2296-design-a-text-editor](https://github.com/YuvrajGotra/LeetCode/tree/master/2296-design-a-text-editor) |
 ## String
@@ -84,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/YuvrajGotra/LeetCode/tree/master/0382-linked-list-random-node) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/YuvrajGotra/LeetCode/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
