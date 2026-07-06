@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/YuvrajGotra/LeetCode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/YuvrajGotra/LeetCode/tree/master/0203-remove-linked-list-elements) |
 ## Design
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/YuvrajGotra/LeetCode/tree/master/0050-powx-n) |
 | [0382-linked-list-random-node](https://github.com/YuvrajGotra/LeetCode/tree/master/0382-linked-list-random-node) |
 ## Reservoir Sampling
 |  |
