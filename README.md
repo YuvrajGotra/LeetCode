@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/YuvrajGotra/LeetCode/tree/master/0050-powx-n) |
 | [0382-linked-list-random-node](https://github.com/YuvrajGotra/LeetCode/tree/master/0382-linked-list-random-node) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/YuvrajGotra/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Reservoir Sampling
 |  |
 | ------- |
