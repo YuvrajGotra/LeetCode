@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/YuvrajGotra/LeetCode/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/YuvrajGotra/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/YuvrajGotra/LeetCode/tree/master/0706-design-hashmap) |
+| [0735-asteroid-collision](https://github.com/YuvrajGotra/LeetCode/tree/master/0735-asteroid-collision) |
 | [1472-design-browser-history](https://github.com/YuvrajGotra/LeetCode/tree/master/1472-design-browser-history) |
 ## Hash Table
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/YuvrajGotra/LeetCode/tree/master/0735-asteroid-collision) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/YuvrajGotra/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2296-design-a-text-editor](https://github.com/YuvrajGotra/LeetCode/tree/master/2296-design-a-text-editor) |
 ## Stack
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/YuvrajGotra/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/YuvrajGotra/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0735-asteroid-collision](https://github.com/YuvrajGotra/LeetCode/tree/master/0735-asteroid-collision) |
 | [1472-design-browser-history](https://github.com/YuvrajGotra/LeetCode/tree/master/1472-design-browser-history) |
 | [2296-design-a-text-editor](https://github.com/YuvrajGotra/LeetCode/tree/master/2296-design-a-text-editor) |
 ## Recursion
