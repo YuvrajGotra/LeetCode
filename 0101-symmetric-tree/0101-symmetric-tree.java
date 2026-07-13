@@ -1,25 +1,13 @@
 class Solution {
-    public boolean isSymmetric(TreeNode root) {
-        mirror(root.left);
-        return isIdentical(root.left, root.right);
-    }
-
-    public Boolean isIdentical(TreeNode p, TreeNode q) {
+    public boolean fun(TreeNode p, TreeNode q) {
         if(p == null && q == null) return true;
         if(p == null || q == null) return false;
         if(p.val != q.val) return false;
 
-        return isIdentical(p.left, q.left) && isIdentical(p.right, q.right);
+        return fun(p.left, q.right) && fun(p.right, q.left);
     }
 
-    public void mirror(TreeNode root) {
-        if(root == null) return ;
-
-        TreeNode temp = root.left;
-        root.left = root.right;
-        root.right = temp;
-
-        mirror(root.left);
-        mirror(root.right);
+    public boolean isSymmetric(TreeNode root) {
+        return fun(root.left, root.right);
     }
 }
