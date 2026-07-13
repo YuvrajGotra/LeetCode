@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/YuvrajGotra/LeetCode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/YuvrajGotra/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/YuvrajGotra/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/YuvrajGotra/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/YuvrajGotra/LeetCode/tree/master/0993-cousins-in-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/YuvrajGotra/LeetCode/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/YuvrajGotra/LeetCode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/YuvrajGotra/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/YuvrajGotra/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/YuvrajGotra/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/YuvrajGotra/LeetCode/tree/master/0993-cousins-in-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/YuvrajGotra/LeetCode/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
@@ -177,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/YuvrajGotra/LeetCode/tree/master/0075-sort-colors) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/YuvrajGotra/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
