@@ -1,7 +1,11 @@
 class Solution {
     public int gcd(int a, int b) {
-        if(b == 0) return a;
-        return gcd(b, a%b);
+        while(b != 0) {
+            int temp = b;
+            b = a%b;
+            a = temp;
+        }
+        return a;
     }
     public int gcdOfOddEvenSums(int n) {
         int sumOdd = 0;
@@ -9,22 +13,14 @@ class Solution {
 
         int cnt = 0;
         int i = 1;
-        while(cnt != n) {
+        while(cnt != (n+n)) {
             if(i % 2 != 0) {
                 sumOdd += i;
-                cnt++;
-            }
-            i++;
-        }
-
-        cnt = 0;
-        i = 1;
-        while(cnt != n) {
-            if(i % 2 == 0) {
+            }else {
                 sumEven += i;
-                cnt++;
             }
             i++;
+            cnt++;
         }
 
         return gcd(sumOdd, sumEven);
