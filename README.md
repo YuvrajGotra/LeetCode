@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/YuvrajGotra/LeetCode/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/YuvrajGotra/LeetCode/tree/master/0012-integer-to-roman) |
 | [0387-first-unique-character-in-a-string](https://github.com/YuvrajGotra/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0705-design-hashset](https://github.com/YuvrajGotra/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/YuvrajGotra/LeetCode/tree/master/0706-design-hashmap) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/YuvrajGotra/LeetCode/tree/master/0012-integer-to-roman) |
 | [0387-first-unique-character-in-a-string](https://github.com/YuvrajGotra/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/YuvrajGotra/LeetCode/tree/master/0392-is-subsequence) |
 | [1108-defanging-an-ip-address](https://github.com/YuvrajGotra/LeetCode/tree/master/1108-defanging-an-ip-address) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/YuvrajGotra/LeetCode/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/YuvrajGotra/LeetCode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/YuvrajGotra/LeetCode/tree/master/0189-rotate-array) |
 | [0382-linked-list-random-node](https://github.com/YuvrajGotra/LeetCode/tree/master/0382-linked-list-random-node) |
