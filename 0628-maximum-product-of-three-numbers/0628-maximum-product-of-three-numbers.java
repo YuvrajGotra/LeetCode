@@ -7,6 +7,5 @@ class Solution {
         int candidate2 = nums[0] * nums[1] * nums[n-1];
 
         return Math.max(candidate1, candidate2);
-
-    }
+   }
 }
