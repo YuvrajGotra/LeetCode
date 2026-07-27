@@ -1,31 +1,16 @@
 class Solution {
     public int maxProduct(int[] nums) {
         int fmax = Integer.MIN_VALUE;
-        int i = 0;
-        int j = 0;
-
-        while(j != nums.length) {
-            if(fmax < nums[j]) {
-                fmax = nums[j];
-                i = j;
-            }
-            j++;
-        }
-
         int smax = Integer.MIN_VALUE;
-        int k = 0;
-        j = 0;
 
-        while(j != nums.length) {
-            if(i == j) {
-                j++;
-                continue;
+        for(int i : nums) {
+            if(i > fmax) {
+                smax = fmax;
+                fmax = i;
             }
-            else if(smax < nums[j]) {
-                smax = nums[j];
-                k = j;
+            else if(i > smax) {
+                smax = i;
             }
-            j++;
         }
 
         return (fmax-1) * (smax-1);
