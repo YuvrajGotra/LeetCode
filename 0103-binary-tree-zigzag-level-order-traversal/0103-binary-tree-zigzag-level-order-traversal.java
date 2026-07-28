@@ -19,7 +19,7 @@ class Solution {
             Pair front = q.remove();
 
             if(currLvl != front.level) {
-                if((currLvl & 1) == 1)
+                if(currLvl % 2 == 1)
                     Collections.reverse(list);
 
                 arr.add(new ArrayList<>(list));
@@ -32,7 +32,7 @@ class Solution {
             if(front.node.left != null) q.add(new Pair(front.node.left, front.level + 1));
             if(front.node.right != null) q.add(new Pair(front.node.right, front.level + 1));
         }
-        if((currLvl & 1) == 1)
+        if(currLvl % 2 == 1)
             Collections.reverse(list);
 
         arr.add(new ArrayList<>(list));
