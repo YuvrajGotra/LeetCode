@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/YuvrajGotra/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/YuvrajGotra/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/YuvrajGotra/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/YuvrajGotra/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0136-single-number](https://github.com/YuvrajGotra/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/YuvrajGotra/LeetCode/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/YuvrajGotra/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/YuvrajGotra/LeetCode/tree/master/0012-integer-to-roman) |
 | [0041-first-missing-positive](https://github.com/YuvrajGotra/LeetCode/tree/master/0041-first-missing-positive) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/YuvrajGotra/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/YuvrajGotra/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0387-first-unique-character-in-a-string](https://github.com/YuvrajGotra/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0705-design-hashset](https://github.com/YuvrajGotra/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/YuvrajGotra/LeetCode/tree/master/0706-design-hashmap) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/YuvrajGotra/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/YuvrajGotra/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/YuvrajGotra/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/YuvrajGotra/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/YuvrajGotra/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/YuvrajGotra/LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/YuvrajGotra/LeetCode/tree/master/0113-path-sum-ii) |
@@ -77,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/YuvrajGotra/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/YuvrajGotra/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/YuvrajGotra/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/YuvrajGotra/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/YuvrajGotra/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/YuvrajGotra/LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/YuvrajGotra/LeetCode/tree/master/0113-path-sum-ii) |
@@ -234,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/YuvrajGotra/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/YuvrajGotra/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/YuvrajGotra/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Two Pointers
 |  |
 | ------- |
