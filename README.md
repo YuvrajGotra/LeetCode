@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/YuvrajGotra/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2574-left-and-right-sum-differences](https://github.com/YuvrajGotra/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/YuvrajGotra/LeetCode/tree/master/3417-zigzag-grid-traversal-with-skip) |
+| [3731-find-missing-elements](https://github.com/YuvrajGotra/LeetCode/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/YuvrajGotra/LeetCode/tree/master/3866-first-unique-even-element) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/YuvrajGotra/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/YuvrajGotra/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0705-design-hashset](https://github.com/YuvrajGotra/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/YuvrajGotra/LeetCode/tree/master/0706-design-hashmap) |
+| [3731-find-missing-elements](https://github.com/YuvrajGotra/LeetCode/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/YuvrajGotra/LeetCode/tree/master/3866-first-unique-even-element) |
 ## Tree
 |  |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/YuvrajGotra/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/YuvrajGotra/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/YuvrajGotra/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/YuvrajGotra/LeetCode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/YuvrajGotra/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search Tree
 |  |
