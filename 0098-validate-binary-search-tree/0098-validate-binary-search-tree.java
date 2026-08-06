@@ -1,23 +1,28 @@
-class Solution {
-    public void helper(TreeNode root, ArrayList<Integer> arr) {
-        if(root == null) return ;
+class Pair {
+    long max;
+    long min;
+    Pair(long max, long min) {
+        this.max = max;
+        this.min = min;
+    }
+}
 
-        helper(root.left, arr);
-        arr.add(root.val);
-        helper(root.right, arr);
+class Solution {
+    public boolean flag;
+
+    public Pair maxMin(TreeNode root) {
+        if (root == null) return new Pair(Long.MIN_VALUE, Long.MAX_VALUE);
+        Pair lst = maxMin(root.left);
+        Pair rst = maxMin(root.right);
+        if(lst.max >= root.val || rst.min <= root.val) flag = false;
+        long mx = Math.max((long)root.val, Math.max(lst.max, rst.max));
+        long mi = Math.min((long)root.val, Math.min(lst.min, rst.min));
+        return new Pair(mx, mi);
     }
 
     public boolean isValidBST(TreeNode root) {
-        ArrayList<Integer> arr = new ArrayList<>();
-
-        helper(root, arr);
-
-        for(int i = 1; i < arr.size(); i++) {
-            if(arr.get(i) <= arr.get(i-1)) {
-                return false;
-            }
-        }
-
-        return true;
+        flag = true;
+        maxMin(root);
+        return flag;
     }
 }
