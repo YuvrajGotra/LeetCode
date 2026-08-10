@@ -5,14 +5,11 @@ class Solution {
         for(int i = 0; i < details.length; i++) {
             char[] ch = details[i].toCharArray();
             String s = "";
-            for(int j = 0; j < ch.length; j++) {
-                if(j == 11 || j == 12) {
-                    s += ch[j];
-                }
-            }
-            if(Integer.parseInt(s) > 60) {
-                cnt++;
-            }
+            s += ch[11];
+            s += ch[12];
+            int z = 0 ; 
+            for(int j = 0 ; j < s.length() ;j++) z = (z*10) + s.charAt(j)-'0';
+           if(z>60) cnt++;
         }
 
         return cnt;
