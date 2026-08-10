@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/YuvrajGotra/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2574-left-and-right-sum-differences](https://github.com/YuvrajGotra/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2643-row-with-maximum-ones](https://github.com/YuvrajGotra/LeetCode/tree/master/2643-row-with-maximum-ones) |
+| [2678-number-of-senior-citizens](https://github.com/YuvrajGotra/LeetCode/tree/master/2678-number-of-senior-citizens) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/YuvrajGotra/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/YuvrajGotra/LeetCode/tree/master/3417-zigzag-grid-traversal-with-skip) |
 | [3731-find-missing-elements](https://github.com/YuvrajGotra/LeetCode/tree/master/3731-find-missing-elements) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/YuvrajGotra/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/YuvrajGotra/LeetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2296-design-a-text-editor](https://github.com/YuvrajGotra/LeetCode/tree/master/2296-design-a-text-editor) |
+| [2678-number-of-senior-citizens](https://github.com/YuvrajGotra/LeetCode/tree/master/2678-number-of-senior-citizens) |
 ## Doubly-Linked List
 |  |
 | ------- |
