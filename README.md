@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/YuvrajGotra/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/YuvrajGotra/LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/YuvrajGotra/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0633-sum-of-square-numbers](https://github.com/YuvrajGotra/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/YuvrajGotra/LeetCode/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/YuvrajGotra/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/YuvrajGotra/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/YuvrajGotra/LeetCode/tree/master/0069-sqrtx) |
 | [0222-count-complete-tree-nodes](https://github.com/YuvrajGotra/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0367-valid-perfect-square](https://github.com/YuvrajGotra/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0633-sum-of-square-numbers](https://github.com/YuvrajGotra/LeetCode/tree/master/0633-sum-of-square-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/YuvrajGotra/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/YuvrajGotra/LeetCode/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/YuvrajGotra/LeetCode/tree/master/0392-is-subsequence) |
+| [0633-sum-of-square-numbers](https://github.com/YuvrajGotra/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/YuvrajGotra/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
