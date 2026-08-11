@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-lucky-numbers-in-a-matrix](https://github.com/YuvrajGotra/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/YuvrajGotra/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1389-create-target-array-in-the-given-order](https://github.com/YuvrajGotra/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/YuvrajGotra/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/YuvrajGotra/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1472-design-browser-history](https://github.com/YuvrajGotra/LeetCode/tree/master/1472-design-browser-history) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/YuvrajGotra/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/YuvrajGotra/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0705-design-hashset](https://github.com/YuvrajGotra/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/YuvrajGotra/LeetCode/tree/master/0706-design-hashmap) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/YuvrajGotra/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [3731-find-missing-elements](https://github.com/YuvrajGotra/LeetCode/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/YuvrajGotra/LeetCode/tree/master/3866-first-unique-even-element) |
 ## Tree
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/YuvrajGotra/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/YuvrajGotra/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [3866-first-unique-even-element](https://github.com/YuvrajGotra/LeetCode/tree/master/3866-first-unique-even-element) |
 ## Number Theory
 |  |
