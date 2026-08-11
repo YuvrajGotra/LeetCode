@@ -6,13 +6,10 @@ class Solution {
             arr.add(index[i], nums[i]);
         }
 
-        int[] res = new int[arr.size()];
-        int idx = 0;
-        for(int i : arr) {
-            res[idx] = i;
-            idx++;
+        int[] target = new int[arr.size()];
+        for(int i = 0;i<target.length; i++){
+            target[i] = arr.get(i);
         }
-
-        return res;
+        return target;
     }
 }
