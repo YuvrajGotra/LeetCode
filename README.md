@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/YuvrajGotra/LeetCode/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/YuvrajGotra/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/YuvrajGotra/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/YuvrajGotra/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/YuvrajGotra/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/YuvrajGotra/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1389-create-target-array-in-the-given-order](https://github.com/YuvrajGotra/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/YuvrajGotra/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0367-valid-perfect-square](https://github.com/YuvrajGotra/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/YuvrajGotra/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/YuvrajGotra/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/YuvrajGotra/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Divide and Conquer
 |  |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/YuvrajGotra/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/YuvrajGotra/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [2643-row-with-maximum-ones](https://github.com/YuvrajGotra/LeetCode/tree/master/2643-row-with-maximum-ones) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/YuvrajGotra/LeetCode/tree/master/3417-zigzag-grid-traversal-with-skip) |
