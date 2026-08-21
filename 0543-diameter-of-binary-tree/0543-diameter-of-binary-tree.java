@@ -3,12 +3,14 @@ class Solution {
         if(root == null) return 0;
         return 1 + Math.max(level(root.left), level(root.right));
     }
+
     public int diameterOfBinaryTree(TreeNode root) {
         if(root == null) return 0;
-        int a = level(root.left) + level(root.right);
-        int b = diameterOfBinaryTree(root.left);
-        int c = diameterOfBinaryTree(root.right);
 
-        return Math.max(a, Math.max(b, c));
+        int level = level(root.left) + level(root.right);
+        int dia1 = diameterOfBinaryTree(root.left);
+        int dia2 = diameterOfBinaryTree(root.right);
+
+        return Math.max(level, Math.max(dia1, dia2));
     }
 }
