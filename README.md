@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2678-number-of-senior-citizens](https://github.com/YuvrajGotra/LeetCode/tree/master/2678-number-of-senior-citizens) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/YuvrajGotra/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/YuvrajGotra/LeetCode/tree/master/3417-zigzag-grid-traversal-with-skip) |
+| [3483-unique-3-digit-even-numbers](https://github.com/YuvrajGotra/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/YuvrajGotra/LeetCode/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/YuvrajGotra/LeetCode/tree/master/3866-first-unique-even-element) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/YuvrajGotra/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/YuvrajGotra/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/YuvrajGotra/LeetCode/tree/master/0706-design-hashmap) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/YuvrajGotra/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [3483-unique-3-digit-even-numbers](https://github.com/YuvrajGotra/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/YuvrajGotra/LeetCode/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/YuvrajGotra/LeetCode/tree/master/3866-first-unique-even-element) |
 ## Tree
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/YuvrajGotra/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/YuvrajGotra/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/YuvrajGotra/LeetCode/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/YuvrajGotra/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Design
 |  |
 | ------- |
@@ -412,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/YuvrajGotra/LeetCode/tree/master/0204-count-primes) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/YuvrajGotra/LeetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/YuvrajGotra/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3483-unique-3-digit-even-numbers](https://github.com/YuvrajGotra/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Backtracking
 |  |
 | ------- |
