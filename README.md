@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/YuvrajGotra/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0705-design-hashset](https://github.com/YuvrajGotra/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/YuvrajGotra/LeetCode/tree/master/0706-design-hashmap) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/YuvrajGotra/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/YuvrajGotra/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/YuvrajGotra/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/YuvrajGotra/LeetCode/tree/master/3731-find-missing-elements) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/YuvrajGotra/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/YuvrajGotra/LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/YuvrajGotra/LeetCode/tree/master/0938-range-sum-of-bst) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/YuvrajGotra/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/YuvrajGotra/LeetCode/tree/master/0993-cousins-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/YuvrajGotra/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/YuvrajGotra/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/YuvrajGotra/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/YuvrajGotra/LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/YuvrajGotra/LeetCode/tree/master/0938-range-sum-of-bst) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/YuvrajGotra/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/YuvrajGotra/LeetCode/tree/master/0993-cousins-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/YuvrajGotra/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/YuvrajGotra/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/YuvrajGotra/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0897-increasing-order-search-tree](https://github.com/YuvrajGotra/LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/YuvrajGotra/LeetCode/tree/master/0938-range-sum-of-bst) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/YuvrajGotra/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/YuvrajGotra/LeetCode/tree/master/0993-cousins-in-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/YuvrajGotra/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/YuvrajGotra/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -191,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/YuvrajGotra/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/YuvrajGotra/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/YuvrajGotra/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/YuvrajGotra/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/YuvrajGotra/LeetCode/tree/master/0993-cousins-in-binary-tree) |
 ## Linked List
 |  |
@@ -366,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/YuvrajGotra/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/YuvrajGotra/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/YuvrajGotra/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/YuvrajGotra/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/YuvrajGotra/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/YuvrajGotra/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/YuvrajGotra/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
