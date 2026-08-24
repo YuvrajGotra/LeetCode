@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/YuvrajGotra/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/YuvrajGotra/LeetCode/tree/master/0392-is-subsequence) |
 | [1108-defanging-an-ip-address](https://github.com/YuvrajGotra/LeetCode/tree/master/1108-defanging-an-ip-address) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/YuvrajGotra/LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/YuvrajGotra/LeetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2296-design-a-text-editor](https://github.com/YuvrajGotra/LeetCode/tree/master/2296-design-a-text-editor) |
 | [2678-number-of-senior-citizens](https://github.com/YuvrajGotra/LeetCode/tree/master/2678-number-of-senior-citizens) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/YuvrajGotra/LeetCode/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/YuvrajGotra/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0989-add-to-array-form-of-integer](https://github.com/YuvrajGotra/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/YuvrajGotra/LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/YuvrajGotra/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/YuvrajGotra/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/YuvrajGotra/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
