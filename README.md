@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/YuvrajGotra/LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/YuvrajGotra/LeetCode/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/YuvrajGotra/LeetCode/tree/master/0707-design-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/YuvrajGotra/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1472-design-browser-history](https://github.com/YuvrajGotra/LeetCode/tree/master/1472-design-browser-history) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/YuvrajGotra/LeetCode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/YuvrajGotra/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/YuvrajGotra/LeetCode/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/YuvrajGotra/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0989-add-to-array-form-of-integer](https://github.com/YuvrajGotra/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/YuvrajGotra/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/YuvrajGotra/LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/YuvrajGotra/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/YuvrajGotra/LeetCode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
