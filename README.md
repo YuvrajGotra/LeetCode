@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/YuvrajGotra/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/YuvrajGotra/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2574-left-and-right-sum-differences](https://github.com/YuvrajGotra/LeetCode/tree/master/2574-left-and-right-sum-differences) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/YuvrajGotra/LeetCode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2643-row-with-maximum-ones](https://github.com/YuvrajGotra/LeetCode/tree/master/2643-row-with-maximum-ones) |
 | [2678-number-of-senior-citizens](https://github.com/YuvrajGotra/LeetCode/tree/master/2678-number-of-senior-citizens) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/YuvrajGotra/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1812-determine-color-of-a-chessboard-square](https://github.com/YuvrajGotra/LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/YuvrajGotra/LeetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2296-design-a-text-editor](https://github.com/YuvrajGotra/LeetCode/tree/master/2296-design-a-text-editor) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/YuvrajGotra/LeetCode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2678-number-of-senior-citizens](https://github.com/YuvrajGotra/LeetCode/tree/master/2678-number-of-senior-citizens) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/YuvrajGotra/LeetCode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 ## Doubly-Linked List
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/YuvrajGotra/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/YuvrajGotra/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/YuvrajGotra/LeetCode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3866-first-unique-even-element](https://github.com/YuvrajGotra/LeetCode/tree/master/3866-first-unique-even-element) |
 ## Number Theory
 |  |
