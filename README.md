@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/YuvrajGotra/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/YuvrajGotra/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1472-design-browser-history](https://github.com/YuvrajGotra/LeetCode/tree/master/1472-design-browser-history) |
+| [1748-sum-of-unique-elements](https://github.com/YuvrajGotra/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/YuvrajGotra/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/YuvrajGotra/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2574-left-and-right-sum-differences](https://github.com/YuvrajGotra/LeetCode/tree/master/2574-left-and-right-sum-differences) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/YuvrajGotra/LeetCode/tree/master/0706-design-hashmap) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/YuvrajGotra/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/YuvrajGotra/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1748-sum-of-unique-elements](https://github.com/YuvrajGotra/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/YuvrajGotra/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/YuvrajGotra/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/YuvrajGotra/LeetCode/tree/master/3731-find-missing-elements) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/YuvrajGotra/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/YuvrajGotra/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1748-sum-of-unique-elements](https://github.com/YuvrajGotra/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/YuvrajGotra/LeetCode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3866-first-unique-even-element](https://github.com/YuvrajGotra/LeetCode/tree/master/3866-first-unique-even-element) |
 ## Number Theory
