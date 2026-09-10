@@ -1,14 +1,16 @@
 class Solution {
     public int missingNumber(int[] nums) {
-        TreeSet<Integer> tree = new TreeSet<>();
+        Set<Integer> set = new HashSet<>();
+        int last = Integer.MIN_VALUE;
 
-        for(int ele : nums) tree.add(ele);
+        for(int ele : nums) set.add(ele);
 
-        int last = tree.last();
+        for(int ele : nums) {
+            if(last < ele) last = ele;
+        }
 
         for(int i = 0; i <= last; i++) {
-            if(tree.contains(i)) continue;
-            else return i;
+            if(!set.contains(i)) return i;
         }
 
         return last+1;
