@@ -14,7 +14,7 @@ class Solution {
             rSum += num[idx];
             idx--;
 
-            maxSum = Math.max(maxSum, lSum+rSum);
+            if(lSum+rSum > maxSum) maxSum = lSum+rSum;
         }
 
         return maxSum;
