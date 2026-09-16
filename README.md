@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/YuvrajGotra/LeetCode/tree/master/0041-first-missing-positive) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/YuvrajGotra/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/YuvrajGotra/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0138-copy-list-with-random-pointer](https://github.com/YuvrajGotra/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0242-valid-anagram](https://github.com/YuvrajGotra/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/YuvrajGotra/LeetCode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/YuvrajGotra/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/YuvrajGotra/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/YuvrajGotra/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/YuvrajGotra/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/YuvrajGotra/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0203-remove-linked-list-elements](https://github.com/YuvrajGotra/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/YuvrajGotra/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0382-linked-list-random-node](https://github.com/YuvrajGotra/LeetCode/tree/master/0382-linked-list-random-node) |
