@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/YuvrajGotra/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/YuvrajGotra/LeetCode/tree/master/0392-is-subsequence) |
 | [0709-to-lower-case](https://github.com/YuvrajGotra/LeetCode/tree/master/0709-to-lower-case) |
+| [0796-rotate-string](https://github.com/YuvrajGotra/LeetCode/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/YuvrajGotra/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/YuvrajGotra/LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/YuvrajGotra/LeetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
@@ -577,4 +578,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/YuvrajGotra/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/YuvrajGotra/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/YuvrajGotra/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/YuvrajGotra/LeetCode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
