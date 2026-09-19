@@ -9,13 +9,17 @@ class Solution {
             }
         }
 
-        for(int ele: map.keySet()) maxNum = Math.max(maxNum, map.get(ele));
+        for(int ele: map.keySet()) {
+            if(maxNum < map.get(ele)) {
+                maxNum = map.get(ele);
+            }
+        }
 
         int res = Integer.MAX_VALUE;
 
         for(int ele: map.keySet()) {
             if(map.get(ele) == maxNum) {
-                res = Math.min(res, ele);
+                if(res > ele) res = ele;
             }
         }
 
