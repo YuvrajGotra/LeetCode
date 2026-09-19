@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/YuvrajGotra/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/YuvrajGotra/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/YuvrajGotra/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/YuvrajGotra/LeetCode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/YuvrajGotra/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0575-distribute-candies](https://github.com/YuvrajGotra/LeetCode/tree/master/0575-distribute-candies) |
 | [0705-design-hashset](https://github.com/YuvrajGotra/LeetCode/tree/master/0705-design-hashset) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/YuvrajGotra/LeetCode/tree/master/0012-integer-to-roman) |
 | [0242-valid-anagram](https://github.com/YuvrajGotra/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/YuvrajGotra/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/YuvrajGotra/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/YuvrajGotra/LeetCode/tree/master/0392-is-subsequence) |
 | [0709-to-lower-case](https://github.com/YuvrajGotra/LeetCode/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/YuvrajGotra/LeetCode/tree/master/0796-rotate-string) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/YuvrajGotra/LeetCode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/YuvrajGotra/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/YuvrajGotra/LeetCode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/YuvrajGotra/LeetCode/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
 | ------- |
@@ -432,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/YuvrajGotra/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/YuvrajGotra/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/YuvrajGotra/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/YuvrajGotra/LeetCode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/YuvrajGotra/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/YuvrajGotra/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/YuvrajGotra/LeetCode/tree/master/0973-k-closest-points-to-origin) |
