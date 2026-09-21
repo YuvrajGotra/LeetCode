@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/YuvrajGotra/LeetCode/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/YuvrajGotra/LeetCode/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/YuvrajGotra/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/YuvrajGotra/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/YuvrajGotra/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/YuvrajGotra/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/YuvrajGotra/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/YuvrajGotra/LeetCode/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/YuvrajGotra/LeetCode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/YuvrajGotra/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/YuvrajGotra/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/YuvrajGotra/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/YuvrajGotra/LeetCode/tree/master/0204-count-primes) |
