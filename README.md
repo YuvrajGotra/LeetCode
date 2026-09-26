@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/YuvrajGotra/LeetCode/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/YuvrajGotra/LeetCode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/YuvrajGotra/LeetCode/tree/master/0735-asteroid-collision) |
+| [0867-transpose-matrix](https://github.com/YuvrajGotra/LeetCode/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/YuvrajGotra/LeetCode/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/YuvrajGotra/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/YuvrajGotra/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/YuvrajGotra/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0735-asteroid-collision](https://github.com/YuvrajGotra/LeetCode/tree/master/0735-asteroid-collision) |
+| [0867-transpose-matrix](https://github.com/YuvrajGotra/LeetCode/tree/master/0867-transpose-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/YuvrajGotra/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/YuvrajGotra/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2296-design-a-text-editor](https://github.com/YuvrajGotra/LeetCode/tree/master/2296-design-a-text-editor) |
@@ -558,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/YuvrajGotra/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/YuvrajGotra/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0867-transpose-matrix](https://github.com/YuvrajGotra/LeetCode/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/YuvrajGotra/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/YuvrajGotra/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [2643-row-with-maximum-ones](https://github.com/YuvrajGotra/LeetCode/tree/master/2643-row-with-maximum-ones) |
