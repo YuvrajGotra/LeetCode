@@ -1,16 +1,19 @@
 class Solution {
-    public int level(TreeNode root) {
+    public int max = 0;
+
+    public int height(TreeNode root) {
         if(root == null) return 0;
-        return 1 + Math.max(level(root.left), level(root.right));
+
+        int left = height(root.left);
+        int right = height(root.right);
+
+        max = Math.max(max, left+right);
+
+        return 1 + Math.max(left, right);
     }
 
     public int diameterOfBinaryTree(TreeNode root) {
-        if(root == null) return 0;
-
-        int level = level(root.left) + level(root.right);
-        int dia1 = diameterOfBinaryTree(root.left);
-        int dia2 = diameterOfBinaryTree(root.right);
-
-        return Math.max(level, Math.max(dia1, dia2));
+        height(root);
+        return max;
     }
 }
