@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/YuvrajGotra/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/YuvrajGotra/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0735-asteroid-collision](https://github.com/YuvrajGotra/LeetCode/tree/master/0735-asteroid-collision) |
+| [0856-score-of-parentheses](https://github.com/YuvrajGotra/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0897-increasing-order-search-tree](https://github.com/YuvrajGotra/LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/YuvrajGotra/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1472-design-browser-history](https://github.com/YuvrajGotra/LeetCode/tree/master/1472-design-browser-history) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/YuvrajGotra/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0709-to-lower-case](https://github.com/YuvrajGotra/LeetCode/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/YuvrajGotra/LeetCode/tree/master/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/YuvrajGotra/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/YuvrajGotra/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/YuvrajGotra/LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/YuvrajGotra/LeetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
@@ -698,4 +700,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/YuvrajGotra/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/YuvrajGotra/LeetCode/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
