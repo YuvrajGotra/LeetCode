@@ -1,19 +1,18 @@
 class Solution {
     public static int[] dp;
+    
+    public int rob(int[] arr) {
+        if(arr.length == 1) return arr[0];
 
-    public int loot(int i, int[] nums) {
-        if(i >= nums.length) return 0;
-        if(dp[i] != -1) return dp[i];
-
-        int pick = nums[i] + loot(i+2, nums);
-        int skip = loot(i+1, nums);
-
-        return dp[i] = Math.max(pick, skip);
-    }
-
-    public int rob(int[] nums) {
-        dp = new int[nums.length];
-        Arrays.fill(dp, -1);
-        return loot(0, nums);
+        dp = new int[arr.length];
+        
+        dp[0] = arr[0];
+        dp[1] = Math.max(arr[0], arr[1]);
+        
+        for(int i = 2; i < arr.length; i++) {
+            dp[i] = Math.max(arr[i] + dp[i-2], dp[i-1]);
+        }
+        
+        return dp[arr.length-1];
     }
 }
