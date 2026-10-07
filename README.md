@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/YuvrajGotra/LeetCode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/YuvrajGotra/LeetCode/tree/master/0735-asteroid-collision) |
 | [0746-min-cost-climbing-stairs](https://github.com/YuvrajGotra/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
+| [0860-lemonade-change](https://github.com/YuvrajGotra/LeetCode/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/YuvrajGotra/LeetCode/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/YuvrajGotra/LeetCode/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/YuvrajGotra/LeetCode/tree/master/0973-k-closest-points-to-origin) |
@@ -576,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/YuvrajGotra/LeetCode/tree/master/0011-container-with-most-water) |
 | [0435-non-overlapping-intervals](https://github.com/YuvrajGotra/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/YuvrajGotra/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0860-lemonade-change](https://github.com/YuvrajGotra/LeetCode/tree/master/0860-lemonade-change) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/YuvrajGotra/LeetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 ## Enumeration
 |  |
