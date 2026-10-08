@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/YuvrajGotra/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1472-design-browser-history](https://github.com/YuvrajGotra/LeetCode/tree/master/1472-design-browser-history) |
 | [1480-running-sum-of-1d-array](https://github.com/YuvrajGotra/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1710-maximum-units-on-a-truck](https://github.com/YuvrajGotra/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1748-sum-of-unique-elements](https://github.com/YuvrajGotra/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/YuvrajGotra/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/YuvrajGotra/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -530,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/YuvrajGotra/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/YuvrajGotra/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/YuvrajGotra/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1710-maximum-units-on-a-truck](https://github.com/YuvrajGotra/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [2418-sort-the-people](https://github.com/YuvrajGotra/LeetCode/tree/master/2418-sort-the-people) |
 | [2733-neither-minimum-nor-maximum](https://github.com/YuvrajGotra/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 | [3536-maximum-product-of-two-digits](https://github.com/YuvrajGotra/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -592,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/YuvrajGotra/LeetCode/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/YuvrajGotra/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0860-lemonade-change](https://github.com/YuvrajGotra/LeetCode/tree/master/0860-lemonade-change) |
+| [1710-maximum-units-on-a-truck](https://github.com/YuvrajGotra/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/YuvrajGotra/LeetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 ## Enumeration
 |  |
