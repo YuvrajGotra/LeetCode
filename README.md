@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/YuvrajGotra/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/YuvrajGotra/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/YuvrajGotra/LeetCode/tree/master/1748-sum-of-unique-elements) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/YuvrajGotra/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2404-most-frequent-even-element](https://github.com/YuvrajGotra/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/YuvrajGotra/LeetCode/tree/master/2418-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/YuvrajGotra/LeetCode/tree/master/2540-minimum-common-value) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/YuvrajGotra/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/YuvrajGotra/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/YuvrajGotra/LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/YuvrajGotra/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/YuvrajGotra/LeetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2278-percentage-of-letter-in-string](https://github.com/YuvrajGotra/LeetCode/tree/master/2278-percentage-of-letter-in-string) |
 | [2296-design-a-text-editor](https://github.com/YuvrajGotra/LeetCode/tree/master/2296-design-a-text-editor) |
@@ -584,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/YuvrajGotra/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/YuvrajGotra/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/YuvrajGotra/LeetCode/tree/master/1748-sum-of-unique-elements) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/YuvrajGotra/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2404-most-frequent-even-element](https://github.com/YuvrajGotra/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/YuvrajGotra/LeetCode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/YuvrajGotra/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -748,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/YuvrajGotra/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/YuvrajGotra/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/YuvrajGotra/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/YuvrajGotra/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## String Matching
 |  |
 | ------- |
