@@ -28,8 +28,7 @@ class Solution {
         while(i <= mid && j <= high) {
             if(nums[i] <= nums[j]) {
                 temp[idx++] = nums[i++];
-            }
-            else {
+            } else {
                 temp[idx++] = nums[j++];
             }
         }
