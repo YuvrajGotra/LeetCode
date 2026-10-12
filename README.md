@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/YuvrajGotra/LeetCode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/YuvrajGotra/LeetCode/tree/master/0735-asteroid-collision) |
 | [0746-min-cost-climbing-stairs](https://github.com/YuvrajGotra/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/YuvrajGotra/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0860-lemonade-change](https://github.com/YuvrajGotra/LeetCode/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/YuvrajGotra/LeetCode/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/YuvrajGotra/LeetCode/tree/master/0877-stone-game) |
@@ -560,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/YuvrajGotra/LeetCode/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/YuvrajGotra/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/YuvrajGotra/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/YuvrajGotra/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0912-sort-an-array](https://github.com/YuvrajGotra/LeetCode/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/YuvrajGotra/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0976-largest-perimeter-triangle](https://github.com/YuvrajGotra/LeetCode/tree/master/0976-largest-perimeter-triangle) |
