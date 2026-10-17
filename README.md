@@ -375,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/YuvrajGotra/LeetCode/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/YuvrajGotra/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/YuvrajGotra/LeetCode/tree/master/0459-repeated-substring-pattern) |
+| [0520-detect-capital](https://github.com/YuvrajGotra/LeetCode/tree/master/0520-detect-capital) |
 | [0686-repeated-string-match](https://github.com/YuvrajGotra/LeetCode/tree/master/0686-repeated-string-match) |
 | [0709-to-lower-case](https://github.com/YuvrajGotra/LeetCode/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/YuvrajGotra/LeetCode/tree/master/0796-rotate-string) |
