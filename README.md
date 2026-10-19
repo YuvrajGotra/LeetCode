@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/YuvrajGotra/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/YuvrajGotra/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/YuvrajGotra/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/YuvrajGotra/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/YuvrajGotra/LeetCode/tree/master/2270-number-of-ways-to-split-array) |
 | [2404-most-frequent-even-element](https://github.com/YuvrajGotra/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/YuvrajGotra/LeetCode/tree/master/2418-sort-the-people) |
@@ -482,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/YuvrajGotra/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/YuvrajGotra/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/YuvrajGotra/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/YuvrajGotra/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/YuvrajGotra/LeetCode/tree/master/2540-minimum-common-value) |
 ## Divide and Conquer
 |  |
@@ -585,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/YuvrajGotra/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/YuvrajGotra/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/YuvrajGotra/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/YuvrajGotra/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/YuvrajGotra/LeetCode/tree/master/2418-sort-the-people) |
 | [2733-neither-minimum-nor-maximum](https://github.com/YuvrajGotra/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 | [3536-maximum-product-of-two-digits](https://github.com/YuvrajGotra/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
