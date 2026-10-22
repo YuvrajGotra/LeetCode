@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/YuvrajGotra/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/YuvrajGotra/LeetCode/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/YuvrajGotra/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/YuvrajGotra/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/YuvrajGotra/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/YuvrajGotra/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/YuvrajGotra/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/YuvrajGotra/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/YuvrajGotra/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/YuvrajGotra/LeetCode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/YuvrajGotra/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/YuvrajGotra/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/YuvrajGotra/LeetCode/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YuvrajGotra/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -705,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/YuvrajGotra/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/YuvrajGotra/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/YuvrajGotra/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/YuvrajGotra/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/YuvrajGotra/LeetCode/tree/master/0566-reshape-the-matrix) |
