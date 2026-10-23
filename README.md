@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/YuvrajGotra/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1472-design-browser-history](https://github.com/YuvrajGotra/LeetCode/tree/master/1472-design-browser-history) |
 | [1480-running-sum-of-1d-array](https://github.com/YuvrajGotra/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1550-three-consecutive-odds](https://github.com/YuvrajGotra/LeetCode/tree/master/1550-three-consecutive-odds) |
 | [1710-maximum-units-on-a-truck](https://github.com/YuvrajGotra/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1732-find-the-highest-altitude](https://github.com/YuvrajGotra/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/YuvrajGotra/LeetCode/tree/master/1748-sum-of-unique-elements) |
