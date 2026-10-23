@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/YuvrajGotra/LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/YuvrajGotra/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/YuvrajGotra/LeetCode/tree/master/1046-last-stone-weight) |
+| [1122-relative-sort-array](https://github.com/YuvrajGotra/LeetCode/tree/master/1122-relative-sort-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/YuvrajGotra/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/YuvrajGotra/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/YuvrajGotra/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/YuvrajGotra/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/YuvrajGotra/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/YuvrajGotra/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1122-relative-sort-array](https://github.com/YuvrajGotra/LeetCode/tree/master/1122-relative-sort-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/YuvrajGotra/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/YuvrajGotra/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/YuvrajGotra/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -595,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/YuvrajGotra/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/YuvrajGotra/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/YuvrajGotra/LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1122-relative-sort-array](https://github.com/YuvrajGotra/LeetCode/tree/master/1122-relative-sort-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/YuvrajGotra/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/YuvrajGotra/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/YuvrajGotra/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
@@ -847,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/YuvrajGotra/LeetCode/tree/master/0455-assign-cookies) |
 | [0976-largest-perimeter-triangle](https://github.com/YuvrajGotra/LeetCode/tree/master/0976-largest-perimeter-triangle) |
+| [1122-relative-sort-array](https://github.com/YuvrajGotra/LeetCode/tree/master/1122-relative-sort-array) |
 ## Radix Sort
 |  |
 | ------- |
@@ -855,6 +859,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/YuvrajGotra/LeetCode/tree/master/0912-sort-an-array) |
+| [1122-relative-sort-array](https://github.com/YuvrajGotra/LeetCode/tree/master/1122-relative-sort-array) |
 ## Polygons
 |  |
 | ------- |
@@ -880,4 +885,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/YuvrajGotra/LeetCode/tree/master/0062-unique-paths) |
+## Bubble Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/YuvrajGotra/LeetCode/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
