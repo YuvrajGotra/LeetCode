@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/YuvrajGotra/LeetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/YuvrajGotra/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/YuvrajGotra/LeetCode/tree/master/0486-predict-the-winner) |
+| [0500-keyboard-row](https://github.com/YuvrajGotra/LeetCode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/YuvrajGotra/LeetCode/tree/master/0506-relative-ranks) |
 | [0523-continuous-subarray-sum](https://github.com/YuvrajGotra/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/YuvrajGotra/LeetCode/tree/master/0525-contiguous-array) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/YuvrajGotra/LeetCode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/YuvrajGotra/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/YuvrajGotra/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0500-keyboard-row](https://github.com/YuvrajGotra/LeetCode/tree/master/0500-keyboard-row) |
 | [0523-continuous-subarray-sum](https://github.com/YuvrajGotra/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/YuvrajGotra/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/YuvrajGotra/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/YuvrajGotra/LeetCode/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/YuvrajGotra/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/YuvrajGotra/LeetCode/tree/master/0459-repeated-substring-pattern) |
+| [0500-keyboard-row](https://github.com/YuvrajGotra/LeetCode/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/YuvrajGotra/LeetCode/tree/master/0520-detect-capital) |
 | [0686-repeated-string-match](https://github.com/YuvrajGotra/LeetCode/tree/master/0686-repeated-string-match) |
 | [0709-to-lower-case](https://github.com/YuvrajGotra/LeetCode/tree/master/0709-to-lower-case) |
