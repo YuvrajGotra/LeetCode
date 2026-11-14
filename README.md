@@ -582,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/YuvrajGotra/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/YuvrajGotra/LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/YuvrajGotra/LeetCode/tree/master/0389-find-the-difference) |
+| [0401-binary-watch](https://github.com/YuvrajGotra/LeetCode/tree/master/0401-binary-watch) |
 ## Sorting
 |  |
 | ------- |
@@ -709,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/YuvrajGotra/LeetCode/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/YuvrajGotra/LeetCode/tree/master/0113-path-sum-ii) |
+| [0401-binary-watch](https://github.com/YuvrajGotra/LeetCode/tree/master/0401-binary-watch) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
