@@ -1,19 +1,22 @@
 class Solution {
-    private List<List<Integer>> res = new ArrayList<>();
-    private List<Integer> path = new ArrayList<>();
-
     public List<List<Integer>> subsets(int[] nums) {
-        bf(nums, 0);
+        List<List<Integer>> res = new ArrayList<>();
+        List<Integer> temp = new ArrayList<>();
+
+        helper(nums, res, temp, 0);
+
         return res;
     }
-    
-    public void bf(int[] nums, int s) {
-        res.add(new ArrayList<>(path));
 
-        for(int i = s; i < nums.length; i++) {
-            path.add(nums[i]);
-            bf(nums, i+1);
-            path.remove(path.size()-1);
+    public void helper(int[] nums, List<List<Integer>> res, List<Integer> temp, int idx) {
+        res.add(new ArrayList<>(temp));
+
+        for(int i = idx; i < nums.length; i++) {
+            temp.add(nums[i]);
+            helper(nums, res, temp, i+1);
+            temp.remove(temp.size()-1);
         }
+
+
     }
 }
