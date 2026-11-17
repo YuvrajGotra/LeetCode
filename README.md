@@ -403,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/YuvrajGotra/LeetCode/tree/master/0520-detect-capital) |
 | [0686-repeated-string-match](https://github.com/YuvrajGotra/LeetCode/tree/master/0686-repeated-string-match) |
 | [0709-to-lower-case](https://github.com/YuvrajGotra/LeetCode/tree/master/0709-to-lower-case) |
+| [0784-letter-case-permutation](https://github.com/YuvrajGotra/LeetCode/tree/master/0784-letter-case-permutation) |
 | [0796-rotate-string](https://github.com/YuvrajGotra/LeetCode/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/YuvrajGotra/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/YuvrajGotra/LeetCode/tree/master/1108-defanging-an-ip-address) |
@@ -588,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/YuvrajGotra/LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/YuvrajGotra/LeetCode/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/YuvrajGotra/LeetCode/tree/master/0401-binary-watch) |
+| [0784-letter-case-permutation](https://github.com/YuvrajGotra/LeetCode/tree/master/0784-letter-case-permutation) |
 ## Sorting
 |  |
 | ------- |
@@ -721,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/YuvrajGotra/LeetCode/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/YuvrajGotra/LeetCode/tree/master/0113-path-sum-ii) |
 | [0401-binary-watch](https://github.com/YuvrajGotra/LeetCode/tree/master/0401-binary-watch) |
+| [0784-letter-case-permutation](https://github.com/YuvrajGotra/LeetCode/tree/master/0784-letter-case-permutation) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
