@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/YuvrajGotra/LeetCode/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/YuvrajGotra/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/YuvrajGotra/LeetCode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/YuvrajGotra/LeetCode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/YuvrajGotra/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/YuvrajGotra/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/YuvrajGotra/LeetCode/tree/master/0055-jump-game) |
@@ -590,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/YuvrajGotra/LeetCode/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/YuvrajGotra/LeetCode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/YuvrajGotra/LeetCode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/YuvrajGotra/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -713,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/YuvrajGotra/LeetCode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/YuvrajGotra/LeetCode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/YuvrajGotra/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/YuvrajGotra/LeetCode/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/YuvrajGotra/LeetCode/tree/master/0078-subsets) |
