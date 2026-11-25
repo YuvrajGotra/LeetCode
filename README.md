@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/YuvrajGotra/LeetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/YuvrajGotra/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/YuvrajGotra/LeetCode/tree/master/0486-predict-the-winner) |
+| [0491-non-decreasing-subsequences](https://github.com/YuvrajGotra/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0500-keyboard-row](https://github.com/YuvrajGotra/LeetCode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/YuvrajGotra/LeetCode/tree/master/0506-relative-ranks) |
 | [0523-continuous-subarray-sum](https://github.com/YuvrajGotra/LeetCode/tree/master/0523-continuous-subarray-sum) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/YuvrajGotra/LeetCode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/YuvrajGotra/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/YuvrajGotra/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0491-non-decreasing-subsequences](https://github.com/YuvrajGotra/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0500-keyboard-row](https://github.com/YuvrajGotra/LeetCode/tree/master/0500-keyboard-row) |
 | [0523-continuous-subarray-sum](https://github.com/YuvrajGotra/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/YuvrajGotra/LeetCode/tree/master/0525-contiguous-array) |
@@ -607,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/YuvrajGotra/LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/YuvrajGotra/LeetCode/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/YuvrajGotra/LeetCode/tree/master/0401-binary-watch) |
+| [0491-non-decreasing-subsequences](https://github.com/YuvrajGotra/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0784-letter-case-permutation](https://github.com/YuvrajGotra/LeetCode/tree/master/0784-letter-case-permutation) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/YuvrajGotra/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Sorting
@@ -752,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/YuvrajGotra/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/YuvrajGotra/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0401-binary-watch](https://github.com/YuvrajGotra/LeetCode/tree/master/0401-binary-watch) |
+| [0491-non-decreasing-subsequences](https://github.com/YuvrajGotra/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0784-letter-case-permutation](https://github.com/YuvrajGotra/LeetCode/tree/master/0784-letter-case-permutation) |
 | [1079-letter-tile-possibilities](https://github.com/YuvrajGotra/LeetCode/tree/master/1079-letter-tile-possibilities) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/YuvrajGotra/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
