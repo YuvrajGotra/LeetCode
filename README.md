@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/YuvrajGotra/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/YuvrajGotra/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/YuvrajGotra/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/YuvrajGotra/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/YuvrajGotra/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/YuvrajGotra/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/YuvrajGotra/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/YuvrajGotra/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/YuvrajGotra/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/YuvrajGotra/LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/YuvrajGotra/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/YuvrajGotra/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/YuvrajGotra/LeetCode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3536-maximum-product-of-two-digits](https://github.com/YuvrajGotra/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -604,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/YuvrajGotra/LeetCode/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/YuvrajGotra/LeetCode/tree/master/0401-binary-watch) |
 | [0784-letter-case-permutation](https://github.com/YuvrajGotra/LeetCode/tree/master/0784-letter-case-permutation) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/YuvrajGotra/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Sorting
 |  |
 | ------- |
@@ -725,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/YuvrajGotra/LeetCode/tree/master/0204-count-primes) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/YuvrajGotra/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/YuvrajGotra/LeetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/YuvrajGotra/LeetCode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/YuvrajGotra/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -747,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/YuvrajGotra/LeetCode/tree/master/0401-binary-watch) |
 | [0784-letter-case-permutation](https://github.com/YuvrajGotra/LeetCode/tree/master/0784-letter-case-permutation) |
 | [1079-letter-tile-possibilities](https://github.com/YuvrajGotra/LeetCode/tree/master/1079-letter-tile-possibilities) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/YuvrajGotra/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -939,6 +944,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/YuvrajGotra/LeetCode/tree/master/0062-unique-paths) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/YuvrajGotra/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Bubble Sort
 |  |
 | ------- |
