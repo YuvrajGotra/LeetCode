@@ -402,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/YuvrajGotra/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/YuvrajGotra/LeetCode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/YuvrajGotra/LeetCode/tree/master/0067-add-binary) |
+| [0131-palindrome-partitioning](https://github.com/YuvrajGotra/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/YuvrajGotra/LeetCode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/YuvrajGotra/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/YuvrajGotra/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -575,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/YuvrajGotra/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/YuvrajGotra/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/YuvrajGotra/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/YuvrajGotra/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/YuvrajGotra/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/YuvrajGotra/LeetCode/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/YuvrajGotra/LeetCode/tree/master/0392-is-subsequence) |
@@ -747,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/YuvrajGotra/LeetCode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/YuvrajGotra/LeetCode/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/YuvrajGotra/LeetCode/tree/master/0113-path-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/YuvrajGotra/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/YuvrajGotra/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0401-binary-watch](https://github.com/YuvrajGotra/LeetCode/tree/master/0401-binary-watch) |
 | [0784-letter-case-permutation](https://github.com/YuvrajGotra/LeetCode/tree/master/0784-letter-case-permutation) |
