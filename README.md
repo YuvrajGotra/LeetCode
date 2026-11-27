@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/YuvrajGotra/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/YuvrajGotra/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/YuvrajGotra/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
+| [0994-rotting-oranges](https://github.com/YuvrajGotra/LeetCode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/YuvrajGotra/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/YuvrajGotra/LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/YuvrajGotra/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/YuvrajGotra/LeetCode/tree/master/0841-keys-and-rooms) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/YuvrajGotra/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/YuvrajGotra/LeetCode/tree/master/0993-cousins-in-binary-tree) |
+| [0994-rotting-oranges](https://github.com/YuvrajGotra/LeetCode/tree/master/0994-rotting-oranges) |
 ## Linked List
 |  |
 | ------- |
@@ -789,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/YuvrajGotra/LeetCode/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/YuvrajGotra/LeetCode/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/YuvrajGotra/LeetCode/tree/master/0867-transpose-matrix) |
+| [0994-rotting-oranges](https://github.com/YuvrajGotra/LeetCode/tree/master/0994-rotting-oranges) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/YuvrajGotra/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/YuvrajGotra/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/YuvrajGotra/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
