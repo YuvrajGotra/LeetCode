@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/YuvrajGotra/LeetCode/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/YuvrajGotra/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/YuvrajGotra/LeetCode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/YuvrajGotra/LeetCode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2643-row-with-maximum-ones](https://github.com/YuvrajGotra/LeetCode/tree/master/2643-row-with-maximum-ones) |
 | [2678-number-of-senior-citizens](https://github.com/YuvrajGotra/LeetCode/tree/master/2678-number-of-senior-citizens) |
 | [2733-neither-minimum-nor-maximum](https://github.com/YuvrajGotra/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/YuvrajGotra/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/YuvrajGotra/LeetCode/tree/master/2418-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/YuvrajGotra/LeetCode/tree/master/2540-minimum-common-value) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/YuvrajGotra/LeetCode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/YuvrajGotra/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/YuvrajGotra/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/YuvrajGotra/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -484,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1812-determine-color-of-a-chessboard-square](https://github.com/YuvrajGotra/LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/YuvrajGotra/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/YuvrajGotra/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/YuvrajGotra/LeetCode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/YuvrajGotra/LeetCode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3536-maximum-product-of-two-digits](https://github.com/YuvrajGotra/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/YuvrajGotra/LeetCode/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -599,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/YuvrajGotra/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/YuvrajGotra/LeetCode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/YuvrajGotra/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/YuvrajGotra/LeetCode/tree/master/2597-the-number-of-beautiful-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -657,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/YuvrajGotra/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/YuvrajGotra/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/YuvrajGotra/LeetCode/tree/master/2418-sort-the-people) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/YuvrajGotra/LeetCode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2733-neither-minimum-nor-maximum](https://github.com/YuvrajGotra/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 | [3536-maximum-product-of-two-digits](https://github.com/YuvrajGotra/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/YuvrajGotra/LeetCode/tree/master/3731-find-missing-elements) |
@@ -767,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-letter-case-permutation](https://github.com/YuvrajGotra/LeetCode/tree/master/0784-letter-case-permutation) |
 | [1079-letter-tile-possibilities](https://github.com/YuvrajGotra/LeetCode/tree/master/1079-letter-tile-possibilities) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/YuvrajGotra/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/YuvrajGotra/LeetCode/tree/master/2597-the-number-of-beautiful-subsets) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -964,6 +970,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/YuvrajGotra/LeetCode/tree/master/0062-unique-paths) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/YuvrajGotra/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/YuvrajGotra/LeetCode/tree/master/2597-the-number-of-beautiful-subsets) |
 ## Bubble Sort
 |  |
 | ------- |
