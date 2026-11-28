@@ -1,26 +1,34 @@
 class Solution {
-    public int numTilePossibilities(String tiles) {
-        Set<String> res = new HashSet<>();
-        StringBuilder sb = new StringBuilder();
-        boolean[] used = new boolean[tiles.length()];
+    public void helper(String s, boolean[] vis, ArrayList<String> res, StringBuilder sb) {
+        if(sb.length() > 0) {
+            res.add(sb.toString());
+        }
 
-        helper(tiles, res, sb, used);
+        for(int i = 0; i < s.length(); i++) {
+            if(vis[i]) continue;
+
+            if(i > 0 && s.charAt(i) == s.charAt(i-1) && !vis[i-1]) continue;
+
+            vis[i] = true;
+            sb.append(s.charAt(i));
+            helper(s, vis, res, sb);
+            sb.deleteCharAt(sb.length()-1);
+            vis[i] = false;
+        }
+    } 
+
+    public int numTilePossibilities(String tiles) {
+        char[] chars = tiles.toCharArray();
+        Arrays.sort(chars);
+
+        boolean[] vis = new boolean[chars.length];
+        ArrayList<String> res = new ArrayList<>();
+        StringBuilder sb = new StringBuilder();
+
+        helper(new String(chars), vis, res, sb);
+
+        System.out.println(res);
 
         return res.size();
-    }
-
-    public void helper(String str, Set<String> res, StringBuilder sb, boolean[] used) {
-        for(int i = 0; i < str.length(); i++) {
-            if(used[i]) continue;
-
-            sb.append(str.charAt(i));
-            used[i] = true;
-            res.add(sb.toString());
-
-            helper(str, res, sb, used);
-
-            sb.deleteCharAt(sb.length()-1);
-            used[i] = false;
-        }
     }
 }
