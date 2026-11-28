@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/YuvrajGotra/LeetCode/tree/master/0506-relative-ranks) |
 | [0523-continuous-subarray-sum](https://github.com/YuvrajGotra/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/YuvrajGotra/LeetCode/tree/master/0525-contiguous-array) |
+| [0526-beautiful-arrangement](https://github.com/YuvrajGotra/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0560-subarray-sum-equals-k](https://github.com/YuvrajGotra/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/YuvrajGotra/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/YuvrajGotra/LeetCode/tree/master/0575-distribute-candies) |
@@ -596,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/YuvrajGotra/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/YuvrajGotra/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/YuvrajGotra/LeetCode/tree/master/0509-fibonacci-number) |
+| [0526-beautiful-arrangement](https://github.com/YuvrajGotra/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0646-maximum-length-of-pair-chain](https://github.com/YuvrajGotra/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0746-min-cost-climbing-stairs](https://github.com/YuvrajGotra/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/YuvrajGotra/LeetCode/tree/master/0877-stone-game) |
@@ -622,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/YuvrajGotra/LeetCode/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/YuvrajGotra/LeetCode/tree/master/0401-binary-watch) |
 | [0491-non-decreasing-subsequences](https://github.com/YuvrajGotra/LeetCode/tree/master/0491-non-decreasing-subsequences) |
+| [0526-beautiful-arrangement](https://github.com/YuvrajGotra/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0784-letter-case-permutation](https://github.com/YuvrajGotra/LeetCode/tree/master/0784-letter-case-permutation) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/YuvrajGotra/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Sorting
@@ -769,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/YuvrajGotra/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0401-binary-watch](https://github.com/YuvrajGotra/LeetCode/tree/master/0401-binary-watch) |
 | [0491-non-decreasing-subsequences](https://github.com/YuvrajGotra/LeetCode/tree/master/0491-non-decreasing-subsequences) |
+| [0526-beautiful-arrangement](https://github.com/YuvrajGotra/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0784-letter-case-permutation](https://github.com/YuvrajGotra/LeetCode/tree/master/0784-letter-case-permutation) |
 | [1079-letter-tile-possibilities](https://github.com/YuvrajGotra/LeetCode/tree/master/1079-letter-tile-possibilities) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/YuvrajGotra/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -980,4 +984,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/YuvrajGotra/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/YuvrajGotra/LeetCode/tree/master/0052-n-queens-ii) |
+## Bitmask
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/YuvrajGotra/LeetCode/tree/master/0526-beautiful-arrangement) |
 <!---LeetCode Topics End-->
