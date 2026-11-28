@@ -1,32 +1,29 @@
 class Solution {
-    public int subsetXORSum(int[] nums) {
-        List<List<Integer>> res = new ArrayList<>();
-        List<Integer> temp = new ArrayList<>();
-
-        helper(nums, res, temp, 0);
-
-        int sum = 0;
-
-        for (List<Integer> ele : res) {
-            int xor = 0;
-            for (int num : ele) {
-                xor ^= num;
+    public void helper(int[] nums, List<Integer> temp, int[] sum, int idx) {
+        if(temp.size() > 0) {
+            int t = 0;
+            for(int i = 0; i < temp.size(); i++) {
+                t ^= temp.get(i);
             }
-            sum += xor;
+            sum[0] += t;
+
+            // return ;
         }
 
-        return sum;
-    }
 
-    public void helper(int[] nums, List<List<Integer>> res, List<Integer> temp, int start) {
-        if (!temp.isEmpty()) {
-            res.add(new ArrayList<>(temp));
-        }
-
-        for(int i = start; i < nums.length; i++) {
+        for(int i = idx; i < nums.length; i++) {
             temp.add(nums[i]);
-            helper(nums, res, temp, i+1);
+            helper(nums, temp, sum, i+1);
             temp.remove(temp.size()-1);
         }
+    }
+
+    public int subsetXORSum(int[] nums) {
+        List<Integer> temp = new ArrayList<>();
+
+        int[] sum = {0};
+        helper(nums, temp, sum, 0);
+
+        return sum[0];
     }
 }
